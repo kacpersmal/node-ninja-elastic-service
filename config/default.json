@@ -1,0 +1,7 @@
+{
+  "ExternalDataEndpoint": "http://host.docker.internal:3000/starlink",
+  "SyncRequestInterval": 10,
+  "Elastic": {
+    "url": "http://elasticsearch:9200"
+  }
+}
